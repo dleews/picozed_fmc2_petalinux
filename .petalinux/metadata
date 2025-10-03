@@ -1,0 +1,6 @@
+PETALINUX_VER=2022.1
+VALIDATE_HW_CHKSUM=1
+HARDWARE_CHECKSUM=aa01451fd0f968c2ab14871733a46f26
+YOCTO_SDK=ecdfa1448903ef83b2b73483d5c2d14a
+RFSCONFIG_CHKSUM=61bfe168caacce7f008fdaa5baf4f438
+HARDWARE_PATH=/media/extradrive1/gitrepos/avnet/avnet_hdl/hdl/projects/pz7030_fmc2_base_2022_1/pz7030_fmc2_base.xsa
